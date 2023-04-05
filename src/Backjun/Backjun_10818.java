@@ -35,7 +35,7 @@ public class Backjun_10818 {
 			}else {
 				
 			}
-		}System.out.println(d+ " ");System.out.println(c);
+		}System.out.print(d+ " ");System.out.print(c);
 		
 	}
 
